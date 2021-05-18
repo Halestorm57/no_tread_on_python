@@ -28,4 +28,7 @@ def main():
 
 
 if __name__ == '__main__':
+    """
+    Executes program iff executed directly from interpreter
+    """
     main()
